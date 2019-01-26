@@ -1,0 +1,19 @@
+Python.h
+stddef.h
+math.h
+pythred
+omp.h
+cstdlib
+frameobject
+string
+structmember
+compile
+traceback
+floatingpoint
+locale
+
+gcc crack.c -o -crack.exe
+
+home/111/usr/
+Desktop/PassCracker
+C_INCLUDE_PATH=C:\Users\111\AppData\Local\Programs\Python\Python37-32

@@ -1,0 +1,7 @@
+D:\Хмара\ЛНУ\3 курс\Захист інформації (Бернакевич)\InformationProtection-Tasks\4) Diffie–Hellman\bin\Debug\4) Diffie–Hellman.exe.config
+D:\Хмара\ЛНУ\3 курс\Захист інформації (Бернакевич)\InformationProtection-Tasks\4) Diffie–Hellman\bin\Debug\4) Diffie–Hellman.exe
+D:\Хмара\ЛНУ\3 курс\Захист інформації (Бернакевич)\InformationProtection-Tasks\4) Diffie–Hellman\bin\Debug\4) Diffie–Hellman.pdb
+D:\Хмара\ЛНУ\3 курс\Захист інформації (Бернакевич)\InformationProtection-Tasks\4) Diffie–Hellman\obj\Debug\4) Diffie–Hellman.csproj.CoreCompileInputs.cache
+D:\Хмара\ЛНУ\3 курс\Захист інформації (Бернакевич)\InformationProtection-Tasks\4) Diffie–Hellman\obj\Debug\4) Diffie–Hellman.exe
+D:\Хмара\ЛНУ\3 курс\Захист інформації (Бернакевич)\InformationProtection-Tasks\4) Diffie–Hellman\obj\Debug\4) Diffie–Hellman.pdb
+D:\Хмара\ЛНУ\3 курс\Захист інформації (Бернакевич)\InformationProtection-Tasks\4) Diffie–Hellman\obj\Debug\4) Diffie–Hellman.csprojResolveAssemblyReference.cache

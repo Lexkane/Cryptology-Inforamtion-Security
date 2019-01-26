@@ -1,0 +1,7 @@
+D:\Хмара\ЛНУ\3 курс\Захист інформації (Бернакевич)\InformationProtection-Tasks\2) Gamma cipher\bin\Debug\2) Gamma cipher.exe.config
+D:\Хмара\ЛНУ\3 курс\Захист інформації (Бернакевич)\InformationProtection-Tasks\2) Gamma cipher\bin\Debug\2) Gamma cipher.exe
+D:\Хмара\ЛНУ\3 курс\Захист інформації (Бернакевич)\InformationProtection-Tasks\2) Gamma cipher\bin\Debug\2) Gamma cipher.pdb
+D:\Хмара\ЛНУ\3 курс\Захист інформації (Бернакевич)\InformationProtection-Tasks\2) Gamma cipher\obj\Debug\2) Gamma cipher.csprojResolveAssemblyReference.cache
+D:\Хмара\ЛНУ\3 курс\Захист інформації (Бернакевич)\InformationProtection-Tasks\2) Gamma cipher\obj\Debug\2) Gamma cipher.csproj.CoreCompileInputs.cache
+D:\Хмара\ЛНУ\3 курс\Захист інформації (Бернакевич)\InformationProtection-Tasks\2) Gamma cipher\obj\Debug\2) Gamma cipher.exe
+D:\Хмара\ЛНУ\3 курс\Захист інформації (Бернакевич)\InformationProtection-Tasks\2) Gamma cipher\obj\Debug\2) Gamma cipher.pdb
